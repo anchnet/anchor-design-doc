@@ -2,11 +2,11 @@
 
 > 项目源码地址：[https://github.com/51idc/anchor-design](https://github.com/51idc/anchor-design)
 >
-> npm 项目地址：[https://www.npmjs.com/package/anchor-design](https://www.npmjs.com/package/anchor-design)
+> NPM 项目地址：[https://www.npmjs.com/package/anchor-design](https://www.npmjs.com/package/anchor-design)
 >
-> gitBook 源码地址：[https://github.com/51idc/anchor-design-doc](https://github.com/51idc/anchor-design-doc)
+> GitBook 源码地址：[https://github.com/51idc/anchor-design-doc](https://github.com/51idc/anchor-design-doc)
 >
-> gitBook 在线地址：[https://liuzmeng.gitbooks.io/anchor-design/content/](https://liuzmeng.gitbooks.io/anchor-design/content/)
+> GitBook 在线地址：[https://anchnet.gitbooks.io/anchor-design/content/](https://anchnet.gitbooks.io/anchor-design/content/)
 
 Anchor-Design 是一套基于Vue 2.3的前端 UI 组件库，适合设计师、前端工程师和后端工程师用于快速构建和设计网站前端界面。
 
