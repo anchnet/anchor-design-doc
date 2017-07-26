@@ -58,9 +58,13 @@ import { ComponentName } from 'anchor-design'
 </script>
 ```
 
-## 作者列表
+## 贡献者列表
 
 > 动态更新，排名不分先后
+
+* [戴立勤](https://github.com/xiaoda)
+
+## 作者
 
 * [Zhimeng Liu](https://github.com/liuzmeng)
 
